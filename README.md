@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Aishwarya Saraogi
 
-<!--
-**AishwaryaSaraogi/AishwaryaSaraogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech | IoT, Cybersecurity & Blockchain  
+💻 Learning Python, Ethical Hacking & Web Dev  
+🌱 Currently exploring open-source  
+📫 Reach me at: aishwaryasaraogi@gmail.com
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python, C
+- Git & GitHub
+- HTML, CSS, JavaScript
+- Linux (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects Coming Soon
