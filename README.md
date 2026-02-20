@@ -10,9 +10,6 @@ I am a final-year B.Tech student passionate about the intersection of **IoT and 
 
 - **Python Development Intern | Unified Mentor**
   - Developed clean, modular code and improved system logic for better user experience.
-- **Cybersecurity Specialist in Training**
-  - Deep-diving into **Linux**, **Ethical Hacking**, and **Network Security**.
-  - Focused on securing IoT devices and Blockchain-based transactions.
 
 ---
 
