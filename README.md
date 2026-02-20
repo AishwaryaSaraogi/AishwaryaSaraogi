@@ -16,8 +16,11 @@ I am a final-year B.Tech student passionate about the intersection of **IoT and 
 ### 🛠️ Technical Toolkit
 
 **Languages** : Python (Core & Advanced), JavaScript 
+
 **Tools** : Git, GitHub, Linux (Terminal), VS Code 
+
 **Web Dev** : HTML5, CSS3, Basic Web Security 
+
 **Specialization** : IoT Architecture, Blockchain Basics, Ethical Hacking 
 
 ---
