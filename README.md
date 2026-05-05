@@ -16,11 +16,24 @@ I love building technology that solves real-world problems. Currently exploring 
 ---
 
 ### 📊 GitHub Stats
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaSaraogi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaSaraogi&layout=compact&theme=radical)
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaSaraogi&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaSaraogi&layout=compact&theme=dark)
 
 ---
 
+### 🤝 Connect with Me
+<a href="https://www.linkedin.com/in/aishwarya-saraogi">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:aishwaryasaraogi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+---
+
+### 🛠️ Recent Projects
+- **[Project Name 1]** - Short description of what it does.
+- **[Project Name 2]** - Short description of what it does.
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-saraogi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryasaraogi@gmail.com)
