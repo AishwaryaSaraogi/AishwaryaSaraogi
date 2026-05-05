@@ -1,36 +1,33 @@
-# 👋 Hello, I'm Aishwarya Saraogi!
+# Hi 👋, I'm Aishwarya Saraogi
 
-### 🎓 B.Tech Student in IoT | Python Developer | Cybersecurity Enthusiast
-
-I am a final-year B.Tech student passionate about the intersection of **IoT and Security**. Recently, I completed a **Python Development Internship** where I focused on building practical, data-driven applications.
-
----
-
-### 💼 Professional Experience & Highlights
-
-- **Python Development Intern | Unified Mentor**
-  - Developed clean, modular code and improved system logic for better user experience.
+### A Passionate B.Tech Student (IoT) & Python Developer
+I love building technology that solves real-world problems. Currently exploring the intersection of Cybersecurity and Blockchain.
 
 ---
 
-### 🛠️ Technical Toolkit
+### 🚀 Technical Toolkit
 
-**Languages** : Python (Core & Advanced), JavaScript 
-
-**Tools** : Git, GitHub, Linux (Terminal), VS Code 
-
-**Web Dev** : HTML5, CSS3, Basic Web Security 
-
-**Specialization** : IoT Architecture, Blockchain Basics, Ethical Hacking 
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tech Focus** | ![IoT](https://img.shields.io/badge/IoT-00599C?style=for-the-badge) ![Blockchain](https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge) |
+| **Internship** | **Python Developer Intern** @Unified Mentor |
 
 ---
 
-### 🔭 Current Focus & Growth
-- 🛡️ Enhancing my knowledge in **Google AI Essentials**.
-- 🐍 Working on advanced Python automation scripts.
-- 🌐 Looking for Open Source opportunities in the IoT/Security domain.
+### 📊 GitHub Stats
+![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AishwaryaSaraogi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaSaraogi&layout=compact&theme=radical)
 
 ---
 
-### 📫 Connect with Me
-- **Email:** aishwaryasaraogi@gmail.com
+### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryasaraogi@gmail.com)
+
+---
+
+### 🛠️ Recent Projects
+*(Naye projects upload karne ke baad unka link yahan add karein)*
+- **[Project Name 1]** - Short description of what it does.
+- **[Project Name 2]** - Short description of what it does.
